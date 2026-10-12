@@ -1,0 +1,8 @@
+{
+    "origins": [
+        "https://rober.shiroi.work"
+    ],
+    "originsRegex": [
+        "http://localhost:[0-9]+"
+    ]
+}
